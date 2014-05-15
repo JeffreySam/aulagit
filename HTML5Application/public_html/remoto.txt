@@ -1,2 +1,4 @@
 Linhas apagadas
 novas linhas inseridas em máquina local
+
+mais uma linha add
