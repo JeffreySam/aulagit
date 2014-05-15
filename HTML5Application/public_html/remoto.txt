@@ -1,2 +1,2 @@
-arquvo criado remotamente
-Para testes mothafocks
+Linhas apagadas
+novas linhas inseridas em máquina local
